@@ -1,0 +1,4 @@
+models文件夹中包括了训练的教师和学生模型
+introduction文件中是整个项目的介绍，包含了对模型蒸馏方法1和方法2的介绍
+deepseek-01是使用ollama调用deepseek作为教师模型
+test_model是本地训练了两个模型分别作为教师模型和学生模型
